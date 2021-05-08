@@ -1,5 +1,5 @@
 - Hi, I’m @ZonicoGaming
-- I currently can code in Python, C#, JavaScript, VBScrict, CSS and HTML (yes I know HTML isn't a proper language)
+- I currently can code in Python, C#, JavaScript, VBScript, CSS and HTML (yes I know HTML isn't a proper language)
 - I am learning C# and I am not fluent in it just yet
 - I know a tiny bit of JavaScript and VBScript so don't ask me for help on it as will probably be just as clueless
 - Python is my main go to language  
