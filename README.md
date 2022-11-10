@@ -1,4 +1,4 @@
-- Hi, I’m @ZonicoGaming
+- Hi, I’m @DBanks93
 - I currently can code in Python, C#, Java, CSS and HTML (yes I know HTML isn't a proper language)
 - I am learning C# and Java and I am not fluent in it just yet
 - I know a tiny bit of JavaScript and VBScript so don't ask me for help on it as I will probably be just as clueless
